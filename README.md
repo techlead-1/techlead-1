@@ -52,6 +52,4 @@ I am also an <b>Agile Project Manager</b> with certification from the University
 
 ### :fire: My Stats :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=techlead-1&theme=dark&background=000000)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techlead-1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -10,11 +10,6 @@ I'm a **Full-Stack Engineer** with **2.5 years of experience** building scalable
 - 💳 **Payments & Integrations** – Stripe, SendGrid, and automated infrastructure.  
 - 🔧 **DevOps & Deployment** – Heroku, CI/CD, and automated SSL management.  
 
-### 💡 **Recent Projects**  
-- **[White-Label Fundraising Platform](#)** – Built a scalable solution for charity organizations to manage donor networks and transactions.  
-- **[Mass Content Uploader](#)** – Developed a bulk upload feature for managing 200+ posts at once.  
-- **[API Integrations](#)** – Worked extensively with third-party APIs for payments, email, and domain management.  
-
 ### 📈 **Tech Stack**  
 🔹 **Frontend:** React.js, JavaScript (ES6+), Tailwind CSS  
 🔹 **Backend:** Ruby on Rails, Node.js, Express.js  

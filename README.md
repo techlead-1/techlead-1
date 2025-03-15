@@ -13,7 +13,7 @@ I'm a **Full-Stack Engineer** with **2.5 years of experience** building scalable
 ### 📈 **Tech Stack**  
 🔹 **Frontend:** React.js, JavaScript (ES6+), Tailwind CSS  
 🔹 **Backend:** Ruby on Rails, Node.js, Express.js  
-🔹 **Databases:** MongoDB, PostgreSQL  
+🔹 **Databases:** MongoDB
 🔹 **Infrastructure & DevOps:** Heroku, CI/CD  
 🔹 **Payments & Email:** Stripe, SendGrid  
 

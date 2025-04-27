@@ -18,7 +18,7 @@ I'm a **Full-Stack Engineer** with **2.5 years of experience** building scalable
 **Frontend:**  
 • React.js  
 • JavaScript (ES6+) 
-• Typescript
+• Typescript 
 • Tailwind CSS  
 
 **Backend:**  

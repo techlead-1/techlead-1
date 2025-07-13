@@ -8,7 +8,7 @@
 <p align="center">
   I turn ambitious ideas into <strong>production-ready software</strong>.<br/>
   3+ years shipping products with <strong>MERN, Ruby on Rails, Next.js</strong>, and modern DevOps tooling.
-</p>
+</p> 
 
 ---
 

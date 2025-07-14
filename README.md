@@ -10,7 +10,7 @@
   3+ years shipping products with <strong>MERN, Ruby on Rails, Next.js</strong>, and modern DevOps tooling.
 </p> 
 
----
+--- 
 
 ## 🚀 What I Love Building
 

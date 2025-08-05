@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hey, I’m Ademola</h1>
 <p align="center"> 
   <em>Full-Stack Engineer • Technical Lead • Startup Builder</em>  
-</p>
+</p> 
   
 <!-- Quick intro -->
 <p align="center">

@@ -17,7 +17,7 @@
 - **End-to-end web apps** — from sketch to scalable, secure product  
 - **Payment & comms integrations** — Stripe and SendGrid  
 - **Internal tooling** — admin dashboards, bulk editors, import/export systems  
-- **White-label features** — custom domains, automated SSL, branded email
+- **White-label features** — custom domains, automated SSL, branded email 
 
 ---
 

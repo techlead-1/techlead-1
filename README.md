@@ -1,4 +1,4 @@
-# Ademola M. Adesanya  
+# Ademola M Adesanya  
 **End-to-End Lead Full-Stack Engineer**  
 YC Startup School Alumnus  
 
